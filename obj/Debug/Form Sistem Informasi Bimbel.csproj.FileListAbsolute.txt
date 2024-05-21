@@ -1,0 +1,26 @@
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\bin\Debug\Form Sistem Informasi Bimbel.exe.config
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\bin\Debug\Form Sistem Informasi Bimbel.exe
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\bin\Debug\Form Sistem Informasi Bimbel.pdb
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form Sistem Informasi Bimbel.csproj.AssemblyReference.cache
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form1.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Properties.Resources.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form Sistem Informasi Bimbel.csproj.GenerateResource.cache
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form Sistem Informasi Bimbel.csproj.CoreCompileInputs.cache
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form Sistem Informasi Bimbel.exe
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form Sistem Informasi Bimbel.pdb
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form2.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form10.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form11.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form12.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form13.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form14.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form15.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form16.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form3.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form4.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form5.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form6.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form7.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form8.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form9.resources
+C:\Users\MohShobirin\source\repos\Form Sistem Informasi Bimbel\obj\Debug\Form_Sistem_Informasi_Bimbel.Form17.resources
